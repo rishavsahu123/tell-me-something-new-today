@@ -1,2 +1,2 @@
-# Caddy
-Basic information about caddy, how to install, setup and use.
+# tell-me-something-new-today
+This repo will help me to track daily reads.
